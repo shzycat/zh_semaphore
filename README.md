@@ -17,5 +17,4 @@ sem.acquire(6);
 //...other thread...
 //sem.release(16);
 
-
 ```
