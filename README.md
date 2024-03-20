@@ -1,5 +1,5 @@
 # zh::semaphore
-Before C++20, there is not a semaphore provided by standard library.
+Before C++20, there is not a semaphore provided by standard library.  
 This is a simple implementation of semaphore, use C++11.
 
 # Demo
