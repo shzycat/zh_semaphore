@@ -6,6 +6,11 @@
 #include <stdint.h>
 
 
+/*
+* Written by shzy.
+* Happy for using.
+*/
+
 
 namespace zh{
 
