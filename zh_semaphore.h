@@ -28,7 +28,7 @@ typedef basic_semaphore<uint64_t> counting_semaphore;
 
 
 template <typename T,
-	std::enable_if<std::is_same<T, uint64_t>::value || std::is_same<T, bool>::value> * = nullptr>
+	std::enable_if<std::is_same<T, uint64_t>::value || std::is_same<T, bool>::value> *>
 class basic_semaphore
 {
 public:
